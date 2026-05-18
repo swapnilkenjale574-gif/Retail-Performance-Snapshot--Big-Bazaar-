@@ -42,4 +42,3 @@ This project focuses on an end-to-end data preparation, cleaning, and business i
 * **Discount Optimization:** Discovered that discounts above a specific threshold do not significantly boost unit volume but heavily erode net profits.
 
 ---
-*Developed as a portfolio project to demonstrate proficiency in Retail Business Intelligence, data warehousing principles, and Excel/Power Query data pipeline management.*
