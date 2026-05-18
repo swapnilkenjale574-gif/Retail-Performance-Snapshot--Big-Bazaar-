@@ -37,7 +37,6 @@ This project focuses on an end-to-end data preparation, cleaning, and business i
     * **Product:** Segmenting performance by Category and Sub-Category to identify cash cows vs. underperforming inventory.
 
 ## 📈 Key Insights & Business Recommendations
-*(Tip: Feel free to update these points based on your exact final dashboard calculations!)*
 * **Product Performance:** Identified specific sub-categories that generate high revenue but suffer from thin margins due to aggressive discounting.
 * **Seasonal Peaks:** Highlighted specific quarters/months that experience sharp demand spikes, enabling better inventory and supply chain planning.
 * **Discount Optimization:** Discovered that discounts above a specific threshold do not significantly boost unit volume but heavily erode net profits.
