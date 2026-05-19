@@ -42,3 +42,5 @@ This project focuses on an end-to-end data preparation, cleaning, and business i
 * **Discount Optimization:** Discovered that discounts above a specific threshold do not significantly boost unit volume but heavily erode net profits.
 
 ---
+
+<img width="1424" height="707" alt="image" src="https://github.com/user-attachments/assets/600d6221-16ab-4488-bb77-12669b7c2a2f" />
