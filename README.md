@@ -1,4 +1,4 @@
-# Retail-Performance-Snapshot--Big-Bazaar-
+# Retail-Performance-Snapshot-Big-Bazaar
 # 🛒 Retail Performance Snapshot (Big Bazaar) Analytics
 
 ## 📌 Project Overview
